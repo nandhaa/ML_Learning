@@ -1,1 +1,5 @@
-You have hunderds of thousands of data points and quite a few variables in your training data set.In such situation, if I were at your place, I would have used ‘Naive Bayes‘, 
+Naive Bayes Classifier
+----------------------
+You have hunderds of thousands of data points and quite a few variables in your training data set.
+In such situation, Naive Bayes comes in Action.
+
