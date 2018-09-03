@@ -1,5 +1,7 @@
 Naive Bayes Classifier
 ----------------------
 You have hunderds of thousands of data points and quite a few variables in your training data set.
-In such situation, Naive Bayes comes in Action.
+In such situation, Naive Bayes comes in ATction.
+
+This algorithm is mostly used in text classification and with problems having multiple classes.
 
