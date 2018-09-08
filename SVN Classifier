@@ -1,1 +1,12 @@
 SVN can be used for Classification and Regression. But mostly used for Classification.
+
+Support Vectors are simply the co-ordinates of individual observation. 
+Support Vector Machine is a frontier which best segregates the two classes
+
+How does segregating ?
+  It is segregating using hyper-plane.
+  
+Here, maximizing the distances between nearest data point (either class) 
+and hyper-plane will help us to decide the right hyper-plane. This distance is called as Margin.
+
+
