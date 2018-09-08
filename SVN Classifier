@@ -9,4 +9,11 @@ How does segregating ?
 Here, maximizing the distances between nearest data point (either class) 
 and hyper-plane will help us to decide the right hyper-plane. This distance is called as Margin.
 
+Another lightning reason for selecting the hyper-plane with higher margin is robustness
+
+In SVM, it is easy to have a linear hyper-plane between these two classes. But, another burning question which arises is, 
+should we need to add this feature manually to have a hyper-plane. No, SVM has a technique called the kernel trick. 
+These are functions which takes low dimensional input space and transform it to a higher dimensional space 
+i.e. it converts not separable problem to separable problem, these functions are called kernels.
+
 
