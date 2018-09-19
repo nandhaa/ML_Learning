@@ -1,4 +1,4 @@
-SVN can be used for Classification and Regression. But mostly used for Classification.
+SVM can be used for Classification and Regression. But mostly used for Classification.
 
 Support Vectors are simply the co-ordinates of individual observation. 
 Support Vector Machine is a frontier which best segregates the two classes
