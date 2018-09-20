@@ -1,0 +1,14 @@
+KNN can be used for both classification and regression predictive problems. 
+However, it is more widely used in classification problems in the industry. 
+
+Where to use k-NN in the real world
+Some examples of where you can use k-NN:
+
+Classification: fraud detection. The model can update virtually instantly with new training examples 
+since you’re just storing more data points, which allows quick adaptation to new methods of fraud.
+
+Regression: predicting housing prices. In housing price prediction, literally being a “near neighbor” is 
+actually a good indicator of being similar in price. k-NN is useful in domains where physical proximity matters.
+
+Imputing missing training data. If one of the columns in your .csv has lots of missing values, 
+you can impute the data by taking the mean or mode. k-NN could give you a somewhat more accurate guess at each missing value.
